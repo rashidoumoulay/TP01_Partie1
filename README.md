@@ -21,17 +21,24 @@
 <ul>
     <li>a. Par instanciation statique</li>
     <img src="part1.5.a.png" alt="Partie 1.5a"><br>
-
+    =>Resultat :
+    <img src="part1.5.a.res.png" alt="Partie 1.5 Res"><br><br>
+    
     <li>b. Par instanciation dynamique</li>
     <img src="part1.5.b.png" alt="Partie 1.5b"><br>
-
+    =>Resultat :
+    <img src="part1.5.b.res.png" alt="Partie 1.5 Res"><br><br>
+    
     <li>c. En utilisant le Framework Spring
-        <ul>
-            <li>- Version XML</li>
-            <img src="part1.5.c.png" alt="Partie 1.5c XML"><br>
+        - Version XML
+        <img src="part1.5.c.png" alt="Partie 1.5c XML"><br>
+        =>Resultat :
+        <img src="part1.5.c.res.png" alt="Partie 1.5 Res"><br><br>
+        
 
-            <li>- Version annotations</li>
-            <img src="part1.5.d.png" alt="Partie 1.5c Annotations"><br>
-        </ul>
+        - Version annotations
+        <img src="part1.5.d.png" alt="Partie 1.5c Annotations"><br>
+        =>Resultat :
+        <img src="part1.5.d.res.png" alt="Partie 1.5 Res"><br><br>
     </li>
 </ul>
